@@ -2,14 +2,14 @@
 # ========================================================================================
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
-# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify
-url:                   https://inezmeow.github.io/
+# NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
+# url:                   https://username.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-baseurl:               'inezmeow.github.io'
+# baseurl:               '/hydejack-starter-kit'
 
 
 # General settings
@@ -20,7 +20,7 @@ baseurl:               'inezmeow.github.io'
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Inez
+title:                 Starter Kit
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -29,15 +29,15 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               Inez's Wonderland!૮ ˶ᵔ ᵕ ᵔ˶ ა 
+tagline:               Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
-keywords:              [Inez,Suzune,Lingyin]
+keywords:              []
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/4431642296648_.pic.jpg
+logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -45,16 +45,14 @@ author:
   name:                <firstname> <lastname>
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  # twitter:             inezsuzune
+  # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Random Thought
+  - title:             Example
     url:               /example/
-  - title:             Blog
+  - title:             Documentation
     url:               /docs/
-  - title:             Trips
-    url:               /about/
   - title:             About
     url:               /about/
 
@@ -83,15 +81,15 @@ paginate_path:         /:num/
 # ---------------------------------------------------------------------------------------
 
 theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/frost-1280x720-winter-snow-fog-white-5k-23868.jpg
-accent_color:          rgb(205,69,119)
+accent_image:          /assets/img/sidebar-bg.jpg
+accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
@@ -352,7 +350,7 @@ plugins:
 
 # Used for twitter cards
 # twitter:
-#   username:            inezsuzune
+#   username:            <username>
 
 # Used for facebook open graph
 # facebook:
@@ -364,8 +362,8 @@ plugins:
 # social:
 #   name:                <firstname> <lastname>
 #   links:
-#     - https://twitter.com/inezsuzune
-#     - https://github.com/inezmeow
+#     - https://twitter.com/<username>
+#     - https://github.com/<username>
 
 
 # Plugin Configs
