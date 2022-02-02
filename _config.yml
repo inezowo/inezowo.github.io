@@ -20,7 +20,7 @@ url:                   https://inezmeow.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Inez's Adventures in Wonderland
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -32,12 +32,12 @@ description:           >
 tagline:               Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [inez,suzune,lingyin,inezmeow]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/logo.png
+logo:                  /assets/img/logo.jpg
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
