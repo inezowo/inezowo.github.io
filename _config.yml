@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+# url:                   https://inezmeow.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -25,13 +25,13 @@ title:                 Inez
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Blog of Inez
+  Inez's Personal Blog
 
 # A shorter description for the sidebar.
 tagline:               Inez's Adventure in Wonderland
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [inez, suzune, lingyin, inezmeow]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -41,14 +41,14 @@ logo:                  /assets/img/logo.JPG
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Inez Wong
+  email:               inezmeow@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             Thoughts
     url:               /example/
   - title:             Blog
     url:               /docs/
