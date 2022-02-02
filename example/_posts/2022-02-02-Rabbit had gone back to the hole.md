@@ -12,4 +12,4 @@ description: >
 invert_sidebar: true
 ---
 
-# What's this about?
+# What's this?
