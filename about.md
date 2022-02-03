@@ -23,7 +23,7 @@ redirect_from:
 - Travelling
 - Delicious food & Baking
 
-[Rabbit Book list](https://www.goodreads.com/user/show/137411990-inez)     [Rabbit Anime list](https://myanimelist.net/animelist/lysuzune)
+[Rabbit Book list]    [Rabbit Anime list]
 
 
 
