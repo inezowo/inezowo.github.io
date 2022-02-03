@@ -114,7 +114,7 @@ defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
   - scope:
-      path:            hyde/
+      path:            ""
     values:
       accent_color:    rgb(98,32,30)
       theme_color:     rgb(32,32,32)
