@@ -49,7 +49,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Thoughts
-    url:               /docs/
+    url:               /thoughts/
   - title:             Blog
     url:               /example/
   - title:             About
