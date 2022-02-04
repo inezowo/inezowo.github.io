@@ -17,9 +17,10 @@ redirect_from:
 - Psychology
 - Ice-Skating
 - Freediving
+- Crooning
 - Japanese Anime
 - Mystery and Thriller movies
-- Strolling (but have no sense of direction)
+- Strolling
 - Travelling
 - Delicious food & Baking
 
