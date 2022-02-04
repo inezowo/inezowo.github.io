@@ -6,11 +6,12 @@ description: >
 hide_description: true
 sitemap: false
 ---
+> 'Why did you leave Tencent?'.
+> 'It is dream job of every Chinese student.'
+> 'They have good pay.'
+> 'You are the youngest one in our team, we put a lot of resources on you.'
+{:.lead}
 
-# 'Why did you leave Tencent?'
-# 'It is dream job of every Chinese student.'
-# 'They have good pay.'
-# 'You are the youngest one in our team, we put a lot of resources on you.'
 
 Everytime when I was anxious applying jobs in UK, a thought flashed on me. 'Maybe I should not quit my job.'
 
@@ -33,4 +34,7 @@ Born in HK, an international city, diversity and inclusion are crucial to me. Wo
 OVERTIME WORKING hindering my figure-skating practice.
 
 
-To be honest, it might be one of the best companies in the world. The welfares, learning platforms, environments they are providing are absolutely attractive to a fresh graduate. It's just not what I want.
+
+
+
+To be honest, it might be one of the best companies in the world. The welfares, learning platforms, environments they are providing are absolutely attractive to a fresh graduate. It's just not what I want. I am still proud of being an alumnus of Tencent.
