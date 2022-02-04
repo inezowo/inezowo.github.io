@@ -16,6 +16,7 @@ Some random, nonsense and weird thoughts
 ## Academic
 
 ## Career
+* [Tencent](tencent.md){:.heading.flip-title} --- Why did I leave Tencent?
 <!---* [LICENSE]{:.heading.flip-title} --- The license of this project.
 
 
