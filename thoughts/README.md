@@ -9,18 +9,19 @@ permalink: /thoughts/
 ---
 Some random, nonsense and weird thoughts
 
+## Career
+* [Tencent](tencent.md){:.heading.flip-title} --- Quit?
+
 ## Life
-* UK --- Why UK?
-* Partner Preference --- Why Why Why?
+* UK
+* Partner Preference
 
 ## Study
 
 ## Academic
-* Durham --- Why Durham?
-* Psychology --- Why Psychology?
+* Durham
+* Psychology
 
-## Career
-* [Tencent](tencent.md){:.heading.flip-title} --- Why did I leave Tencent?
 
 <!---* [LICENSE]{:.heading.flip-title} --- The license of this project.
 [LICENSE]: ../LICENSE.md
