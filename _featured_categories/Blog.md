@@ -10,7 +10,8 @@ slug: blog
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  Sharing on Trips, Figure-Skating, Freediving etc.
+  Sharing on my interests, maybe about Trips, Figure-Skating, Freediving, or Foods.
+  But I am still writing =w= hahahahahaha
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true

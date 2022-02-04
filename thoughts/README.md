@@ -2,25 +2,25 @@
 layout: page
 title: Thoughts
 description: >
-  Some random, nonsense and weird thoughts
-hide_description: true
+  Some Explanation, Some Thoughts, Some Rationale, Something about White Rabbit.
+hide_description: false
 sitemap: false
 permalink: /thoughts/
 ---
-Some random, nonsense and weird thoughts
 
 ## Career
 * [Tencent](tencent.md){:.heading.flip-title} --- Quit?
 
 ## Life
-* UK
-* Partner Preference
+* UK (later)
+* Partner Preference (later)
 
 ## Study
+* Japanese (later)
 
 ## Academic
-* Durham
-* Psychology
+* Durham (later)
+* Psychology (later)
 
 
 <!---* [LICENSE]{:.heading.flip-title} --- The license of this project.
