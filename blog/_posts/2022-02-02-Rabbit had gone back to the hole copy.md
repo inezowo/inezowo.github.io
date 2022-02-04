@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hydejack, Stripe-ified
-categories: [blog]
+categories: [travel]
 image: /assets/img/blog/jj-ying.jpg
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
