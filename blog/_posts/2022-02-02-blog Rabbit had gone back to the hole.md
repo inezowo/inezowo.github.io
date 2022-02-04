@@ -1,19 +1,17 @@
 ---
 layout: post
 title: Hydejack, Stripe-ified
-image: /assets/img/blog/jj-ying.jpg
+image: /assets/img/blog/whatsthis.jpg
 accent_image: 
-  background: url('/assets/img/blog/jj-ying.jpg') center/cover
+  background: url('/assets/img/blog/whatsthis.jpg') center/cover
   overlay: false
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  Version 9.1 provides minor design changes, new features, and closes multiple issues.
+  Under construction =-=
 invert_sidebar: false
 ---
 
 # What's this?
 
-adfjkldjlfafd
-
-ajdflkajdlfjsf
+I am so confused =-= where am I who am I what am I doing...
