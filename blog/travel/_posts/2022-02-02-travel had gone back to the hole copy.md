@@ -2,6 +2,7 @@
 layout: post
 title: Hydejack, Stripe-ified
 image: /assets/img/blog/jj-ying.jpg
+tags:       [meow]
 accent_image: 
   background: url('/assets/img/blog/jj-ying.jpg') center/cover
   overlay: false
