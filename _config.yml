@@ -164,10 +164,6 @@ kramdown:
   footnote_backlink:   '&#x21a9;&#xfe0e;'
 
 
-# ----------------------------------------------------------------------------------------
-favicon: /assets/icons/favicon.ico
-apple_touch_icon: /assets/img/icon.png
-
 # 3rd Party Integrations
 # ----------------------------------------------------------------------------------------
 
