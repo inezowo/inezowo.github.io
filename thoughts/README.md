@@ -7,8 +7,8 @@ hide_description: true
 sitemap: false
 permalink: /thoughts/
 ---
-
 Some random, nonsense and weird thoughts
+
 ## Life
 
 ## Study
@@ -16,7 +16,8 @@ Some random, nonsense and weird thoughts
 ## Academic
 
 ## Career
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
+<!---* [LICENSE]{:.heading.flip-title} --- The license of this project.
 
 
 [LICENSE]: ../LICENSE.md
+--->
