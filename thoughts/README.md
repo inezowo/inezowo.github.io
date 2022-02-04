@@ -10,14 +10,14 @@ permalink: /thoughts/
 Some random, nonsense and weird thoughts
 
 ## Life
-* UK{:.heading.flip-title} --- Why UK?
-* Partner Preference{:.heading.flip-title} --- Why Why Why?
+* UK --- Why UK?
+* Partner Preference --- Why Why Why?
 
 ## Study
 
 ## Academic
-* Durham{:.heading.flip-title} --- Why Durham?
-* Psychology{:.heading.flip-title} --- Why Psychology?
+* Durham --- Why Durham?
+* Psychology --- Why Psychology?
 
 ## Career
 * [Tencent](tencent.md){:.heading.flip-title} --- Why did I leave Tencent?
