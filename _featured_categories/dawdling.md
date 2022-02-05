@@ -13,6 +13,8 @@ description: >
   Sharing on my interests, maybe about Trips, Figure-Skating, Freediving, or Foods.
   But I am still writing =w= hahahahahaha
 
+OKAY, next page thanks, no content here yet. =-=
+
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
 
