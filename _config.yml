@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Thoughts
-    url:               /thoughts/
+  - title:             Mumbling
+    url:               /mumbling/
   - title:             Blog
     url:               /blog/
   - title:             About

@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Thoughts
+title: Mumbling
 description: >
-  Some Explanation, Some Thoughts, Some Rationale, Something about White Rabbit.
+  Some Broken thoughts, non-sense idea, unregretted decisions made from White Rabbit.
 hide_description: false
 sitemap: false
-permalink: /thoughts/
+permalink: /mumbling/
 ---
 
 ## Career
