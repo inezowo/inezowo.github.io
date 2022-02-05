@@ -12,7 +12,7 @@ slug: travel
 description: >
   travelling post
 
-permalink: /blog/travel/
+permalink: /dawdling/travel/
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
