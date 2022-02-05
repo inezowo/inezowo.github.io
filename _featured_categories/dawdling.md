@@ -11,6 +11,8 @@ slug: dawdling
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
   Sharing on Trips, Figure-Skating, Freediving etc.
+  OKAY, next page thanks, no content here yet. =-=
+  Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding...404
 
 
 # (Optional) You can disable grouping posts by date.
