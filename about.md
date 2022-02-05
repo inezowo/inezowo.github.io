@@ -11,16 +11,25 @@ redirect_from:
 # About
 
 <!--author-->
-    
-## Wasting time on...
+## ❎ Good(I) at(Hate)...
+- Data Analysis/Mining
+- Economics
+- Business Analysis
+- Event organising
+
+## ✅ But Actually Wasting time on...
 - People analytics
 - Psychology
 - Ice-Skating
 - Freediving
+- Chinese traditional dance
 - Japanese Anime
 - Mystery and Thriller movies
 - Strolling
 - Crooning
+- Drawing (Illustration)
+- Video effect and editing
+- Graphic Design
 - Travelling 🇭🇰🇯🇵🇨🇳🇲🇴🇹🇼🇹🇭🇲🇾🇵🇭🇵🇱🇬🇧🇱🇰🇸🇬
 - Delicious food & Baking
 
