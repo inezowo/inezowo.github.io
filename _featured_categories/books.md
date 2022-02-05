@@ -12,7 +12,7 @@ slug: books
 description: >
   books review post
 
-permalink: /dawdling/books/
+permalink: /blog/books/
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
