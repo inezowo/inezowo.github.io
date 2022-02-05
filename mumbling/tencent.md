@@ -7,7 +7,7 @@ description: >
 hide_description: true
 sitemap: false
 ---
-
+ ![tencent](/assets/img/mumbling/tencent.jpg)
 
 > 'Why did you leave Tencent?'.
 
