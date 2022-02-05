@@ -33,9 +33,10 @@ redirect_from:
 - Travelling 🇭🇰🇯🇵🇨🇳🇲🇴🇹🇼🇹🇭🇲🇾🇵🇭🇵🇱🇬🇧🇱🇰🇸🇬
 - Delicious food & Baking
 
-[Rabbit Book list]    [Rabbit Anime list]
+[Rabbit Book list]   [Rabbit Anime list]   [Rabbit Video list]
 
 
 
-[Rabbit Book list]:https://www.goodreads.com/user/show/137411990-inez
-[Rabbit Anime list]: https://myanimelist.net/animelist/lysuzune
+[Inez Book list]:https://www.goodreads.com/user/show/137411990-inez
+[Inez Anime list]: https://myanimelist.net/animelist/lysuzune
+[Inez Video list]: https://space.bilibili.com/906780
