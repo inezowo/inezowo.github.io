@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Why did I leave Tencent?
+image:
+  path: /assets/img/mumbling/tencent.jpg
 description: >
   blablabla
 hide_description: true
 sitemap: false
 ---
+
+
 > 'Why did you leave Tencent?'.
 
 > 'It is dream job of every Chinese student.'
