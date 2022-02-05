@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Why did I leave Tencent?
-image: /assets/img/mumbling/tencent.jpg
 description: >
   blablabla
 hide_description: true
 sitemap: false
 ---
- ![tencent](/assets/img/mumbling/tencent.jpeg)
 
 > 'Why did you leave Tencent?'.
 
