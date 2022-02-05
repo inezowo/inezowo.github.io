@@ -21,7 +21,7 @@ redirect_from:
 - Mystery and Thriller movies
 - Strolling
 - Crooning
-- Travelling
+- Travelling 🇭🇰🇨🇳🇲🇴🇹🇼🇹🇭🇲🇾🇵🇭🇵🇱🇬🇧🇱🇰🇸🇬
 - Delicious food & Baking
 
 [Rabbit Book list]    [Rabbit Anime list]
