@@ -12,8 +12,6 @@ slug: blog
 description: >
   Sharing on Trips, Figure-Skating, Freediving etc.
 
-OKAY, next page thanks, no content here yet. =-=
-Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding...
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
