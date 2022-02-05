@@ -50,11 +50,7 @@ author:
 menu:
   - title:             Mumbling
     url:               /mumbling/
-<<<<<<< HEAD
-  - title:             Dawdling
-=======
   - title:             Blog
->>>>>>> parent of 2ba6296 (dawdling)
     url:               /blog/
   - title:             About
     url:               /about/
@@ -402,21 +398,21 @@ jekyll_compose:
   default_front_matter:
     drafts:
       layout: post
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
     posts:
       layout: post
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
     projects:
       layout: project
-      description: > 
+      description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.
       image:
