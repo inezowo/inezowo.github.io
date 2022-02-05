@@ -2,7 +2,6 @@
 layout: page
 title: Mumbling
 description: >
-<<<<<<< HEAD:mumbling/README.md
   Some Broken thoughts, non-sense idea, unregretted decisions made from White Rabbit.
   Remind myself the rationale of every decisions made 0v0
 hide_description: false
@@ -21,7 +20,6 @@ Remind myself the rationale of making every decisions 0v0
 * Didichuxing (later)
 
 ## Life
-<<<<<<< HEAD:mumbling/README.md
 * UK (later)
 * Partner Selection (later)
 * Driving License (later)
@@ -29,7 +27,7 @@ Remind myself the rationale of making every decisions 0v0
 =======
 * UK
 * Partner Preference
->>>>>>> parent of 9a10fb6 (content adding):thoughts/README.md
+
 
 ## Study
 
