@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Why did I leave Tencent?
-image:
-  path: /assets/img/mumbling/tencent.jpg
+image: /assets/img/mumbling/tencent.jpg
 description: >
   blablabla
 hide_description: true
