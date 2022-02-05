@@ -14,7 +14,6 @@ sitemap: false
 > 'They have good pay.'
 
 > 'You are the youngest one in our team, we put a lot of resources on you.'
-{:.lead}
 
 ---
 
