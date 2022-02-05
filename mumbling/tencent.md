@@ -14,6 +14,7 @@ sitemap: false
 > 'They have good pay.'
 
 > 'You are the youngest one in our team, we put a lot of resources on you.'
+{:.lead}
 
 ---
 
@@ -45,7 +46,9 @@ Born in HK, an international city, diversity and inclusion are crucial to me and
 ## Figure-skating
 **OVERTIME WORKING** hinder my figure-skating practice.
 
+
+
 ---
 
 
-Tencent might be one of the best companies in the world. I love all the people, policies, welfares, salary pays, location, learning platforms, trusts, spoiling environments they are providing. It's just not what I want. Still, I am so proud of being a Tencent alumnus. >w<
+To be honest, it might be one of the best companies in the world. The welfares, learning platforms, environments they are providing are absolutely attractive to a fresh graduate. It's just not what I want. I am still proud of being an alumnus of Tencent.
