@@ -15,7 +15,7 @@ redirect_from:
 - Data Analysis/Mining
 - Economics
 - Business Analysis
-- Event organising
+- Event planning and organising
 
 ## ✅ But Actually Wasting time on...
 - People analytics
