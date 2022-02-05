@@ -12,15 +12,15 @@ redirect_from:
 
 <!--author-->
     
-## Wide range of interests
+## Wasting time on...
 - People analytics
 - Psychology
 - Ice-Skating
 - Freediving
-- Crooning
 - Japanese Anime
 - Mystery and Thriller movies
 - Strolling
+- Crooning
 - Travelling
 - Delicious food & Baking
 
