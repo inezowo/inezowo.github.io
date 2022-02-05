@@ -14,7 +14,7 @@ description: >
   But I am still writing =w= hahahahahaha
 
 OKAY, next page thanks, no content here yet. =-=
-Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding...404
+Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding, Coding...
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
