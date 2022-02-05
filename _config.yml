@@ -50,7 +50,11 @@ author:
 menu:
   - title:             Mumbling
     url:               /mumbling/
+<<<<<<< HEAD
   - title:             Dawdling
+=======
+  - title:             Blog
+>>>>>>> parent of 2ba6296 (dawdling)
     url:               /blog/
   - title:             About
     url:               /about/
