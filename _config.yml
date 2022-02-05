@@ -50,8 +50,8 @@ author:
 menu:
   - title:             Mumbling
     url:               /mumbling/
-#  - title:             Blog
-#    url:               /blog/
+  - title:             Blog(404)
+    url:               /blog/
   - title:             About
     url:               /about/
 
