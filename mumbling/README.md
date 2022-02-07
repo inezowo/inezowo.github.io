@@ -24,16 +24,15 @@ Remind myself the rationale of making every decisions 0v0
 * Partner Selection (later)
 * Driving License (later)
 * Poland (later)
-=======
-* UK
-* Partner Preference
+* UK(later)
+* Partner Preference(later)
 
 
 ## Study
 
 ## Academic
-* Durham
-* Psychology
+* Durham(later)
+* Psychology(later)
 
 
 <!---* [LICENSE]{:.heading.flip-title} --- The license of this project.
