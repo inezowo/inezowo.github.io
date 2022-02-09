@@ -33,7 +33,7 @@ redirect_from:
 - Travelling 🇭🇰🇯🇵🇨🇳🇲🇴🇹🇼🇹🇭🇲🇾🇵🇭🇵🇱🇬🇧🇱🇰🇸🇬
 - Delicious food & Baking
 
-[Rabbit Book list]   [Rabbit Anime list]   [Rabbit Video list]
+[Inez Book list]   [Inez Anime list]   [Inez Video list]
 
 
 
