@@ -21,6 +21,7 @@ Remind myself the rationale of making every decisions 0v0
 
 ## Life
 * UK (later)
+* [Values](inclusiveness.md){:.heading.flip-title}  --- 
 * [Partner Selection](vegan.md){:.heading.flip-title}  --- Why did you date a vegan?
 * Driving License (later)
 * Poland (later)
