@@ -15,13 +15,13 @@ Some Broken thoughts, non-sense idea, unregretted decisions made from White Rabb
 Remind myself the rationale of making every decisions 0v0
 
 ## Career
-* [Tencent](tencent.md){:.heading.flip-title} --- Quit?
+* [Tencent](tencent.md){:.heading.flip-title} --- Why did u leave Tencent?
 * Tencent --- Onboard? (later)
 * Didichuxing (later)
 
 ## Life
 * UK (later)
-* Partner Selection (later)
+* [Partner Selection](vegan.md){:.heading.flip-title}  --- Why did you date a vegan?
 * Driving License (later)
 * Poland (later)
 * UK(later)
