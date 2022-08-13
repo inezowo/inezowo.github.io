@@ -16,18 +16,9 @@ Remind myself the rationale of making every decisions 0v0
 
 ## Career
 * [Tencent](tencent.md){:.heading.flip-title} --- Why did u leave Tencent?
-* Tencent --- Onboard? (later)
-* Didichuxing (later)
+* NHS --- ? (In progress)
 
 ## Life
-* UK (later)
-* [Values](inclusiveness.md){:.heading.flip-title}  --- 
-* [Partner Selection](vegan.md){:.heading.flip-title}  --- Why did you date a vegan?
-* Driving License (later)
-* Poland (later)
-* UK(later)
-* Partner Preference(later)
-
 
 ## Study
 
