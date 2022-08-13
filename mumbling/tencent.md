@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why did u leave Tencent?
+title: Why did I leave Tencent?
 description: >
   blablabla
 hide_description: true

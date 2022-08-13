@@ -12,10 +12,10 @@ sitemap: false
 permalink: /mumbling/
 ---
 Some Broken thoughts, non-sense idea, unregretted decisions made from White Rabbit.
-Remind myself the rationale of making every decisions 0v0
+Remind myself the rationale of making every decision 0v0
 
 ## Career
-* [Tencent](tencent.md){:.heading.flip-title} --- Why did u leave Tencent?
+* [Tencent](tencent.md){:.heading.flip-title} --- Why did I leave Tencent?
 * NHS --- ? (In progress)
 
 ## Life
