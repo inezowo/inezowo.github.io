@@ -19,7 +19,7 @@ Remind myself the rationale of making every decision 0v0
 * NHS --- ? (In progress)
 
 ## Life
-* [UK](UKHeatWave.md){:.heading.flip-title} --- How to survive in UK heat wave?
+* [UK](UKHeatwave.md){:.heading.flip-title} --- How to survive in UK heat wave?
 
 ## Study
 
