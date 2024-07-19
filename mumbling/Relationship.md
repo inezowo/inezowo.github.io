@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Why do I need a Relationship?
+title: Why do I want a Relationship?
 description: >
   blablabla
 hide_description: true
 sitemap: false
 ---
 
-> 'If I can satisfy all my needs, Why do I need a intimate relationship?'.
+> 'If I can satisfy all my needs, Why do I want a intimate relationship?'.
 
 ---
 I have been thinking this question for quite a long time in 2024 when I was triggered to want a family after 2 years of celibacy. Asking people and summarised into answers which I love.
