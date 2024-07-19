@@ -20,7 +20,7 @@ Remind myself the rationale of making every decision 0v0
 
 ## Life
 * [UK](UKHeatwave.md){:.heading.flip-title} --- How to survive in UK heat wave?
-* [Romantic Relationship](Relationship.md){:.heading.flip-title} --- Why do I need a relaionship?
+* [Romantic Relationship](Relationship.md){:.heading.flip-title} --- Why do I want a relaionship?
 
 ## Study
 
