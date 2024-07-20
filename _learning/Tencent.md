@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Tencent
+show_collection: learning
 date: 
 caption: Dogfooding Hydejack to sell Hydejack.
 description: >
