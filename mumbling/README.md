@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: grid
 title: Mumbling
 description: >
   Some Broken thoughts, non-sense idea, unregretted decisions made from White Rabbit.
