@@ -1,7 +1,7 @@
 ---
-layout: project
+layout: post
 title: Learn How To Talk To Anyone
-#categories: [bookreview]
+categories: [bookreview]
 # tags:       [jekyll, update]
 show_collection: learning
 caption: Overcome Awkwardness, Make Connections And Socialize With Ease (The Successful Introverts Guide Series Book 1)

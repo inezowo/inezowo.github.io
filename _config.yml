@@ -182,7 +182,7 @@ google_analytics:      UA-219391084-1
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
-# disqus:                <username>
+# disqus:                inezowo
 
 # Setting a tinyletter username will enable the newsletter subscription box.
 # PRO version only!
@@ -306,9 +306,9 @@ collections:
     permalink:         /tag-:name/
     output:            true
 
-  learning:  #Project layout
-    permalink:         /learning/:path/
-    output:            true
+  # learning:  #Project layout
+  #   permalink:         /learning/:path/
+  #   output:            true
 
   # projects:
   #   permalink:         /projects/:path/

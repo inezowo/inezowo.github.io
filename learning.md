@@ -1,7 +1,6 @@
 ---
-layout:           projects
+layout:           grid
 title:            Learning
-show_collection:  learning
 feature:          true
 description: >
   Self-learning notes e.g.Book reviews, Coursera learning jounals
