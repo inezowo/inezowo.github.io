@@ -50,20 +50,18 @@ author:
 menu:
   - title:             About
     url:               /about/
+  - title:             Learning
+    url:               /learning/
   - title:             Mumbling
     url:               /mumbling/
   - title:             Dawdling
     url:               /dawdling/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Blog
-    url:               /blog/
-  - title:             Learning
-    url:               /learning/
-  - title:             Résumé*
-    url:               /resume/
-  - title:             Documentation
-    url:               /docs/
+#  - title:             Résumé*
+#    url:               /resume/
+#  - title:             Blog
+#    url:               /blog/
+#  - title:             Documentation
+#    url:               /docs/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
