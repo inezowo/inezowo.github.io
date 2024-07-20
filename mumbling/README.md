@@ -15,11 +15,12 @@ Some Broken thoughts, non-sense idea, unregretted decisions made from White Rabb
 Remind myself the rationale of making every decision 0v0
 
 ## Career
-* [Tencent](tencent.md){:.heading.flip-title} --- Why did I leave Tencent?
-* NHS --- ? (In progress)
+* **Tencent** --- [Why did I leave Tencent?](tencent.md)
+* **Industry** --- [Working in different industries](Industry.md)
 
 ## Life
-* [UK](UKHeatwave.md){:.heading.flip-title} --- How to survive in UK heat wave?
+* **UK** --- [How to survive in UK heat wave?](UKHeatwave.md)
+* **Romantic Relationship** --- [Why do I want a relaionship?](Relationship.md)
 
 ## Study
 

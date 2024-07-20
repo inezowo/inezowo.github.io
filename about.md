@@ -30,7 +30,7 @@ redirect_from:
 - Drawing (Illustration)
 - Video effect and editing
 - Graphic Design
-- Travelling 🇭🇰🇯🇵🇨🇳🇲🇴🇹🇼🇹🇭🇲🇾🇵🇭🇵🇱🇬🇧🇱🇰🇸🇬
+- Travelling 🇭🇰🇯🇵🇨🇳🇲🇴🇹🇼🇹🇭🇲🇾🇵🇭🇵🇱🇬🇧🇱🇰🇸🇬🇫🇷🇪🇸🇦🇪🇨🇦🇺🇸
 - Delicious food & Baking
 
 [Inez Book list]   [Inez Anime list]   [Inez Video list]
