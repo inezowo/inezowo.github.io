@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learn How To Talk To Anyone
-categories: [bookreview]
+# categories: [bookreview]
 # tags:       [jekyll, update]
 # show_collection: learning
 description: >
