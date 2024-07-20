@@ -56,6 +56,8 @@ menu:
     url:               /mumbling/
   - title:             Dawdling
     url:               /dawdling/
+  - title:             Projects
+    url:               /projects/
 #  - title:             Résumé*
 #    url:               /resume/
 #  - title:             Blog
@@ -313,7 +315,7 @@ collections:
   other_projects:
     permalink:         /other_projects/:path/
     output:            true
-    
+
   learning:
     permalink:         /learning/:path/
     output:            true
