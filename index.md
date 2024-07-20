@@ -1,6 +1,6 @@
 ---
-layout: blog
-title: Blog
+layout: welcome
+title: Welcome
 cover:  true
 selected_projects:
   - _learning/talk.md
