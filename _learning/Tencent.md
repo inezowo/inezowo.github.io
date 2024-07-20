@@ -1,6 +1,8 @@
 ---
 layout: project
 title: Tencent
+categories: [bookreview]
+# tags:       [jekyll, update]
 show_collection: learning
 date: 
 caption: Dogfooding Hydejack to sell Hydejack.
