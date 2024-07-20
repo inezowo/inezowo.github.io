@@ -58,8 +58,8 @@ menu:
     url:               /resume/
   - title:             Blog
     url:               /blog/
-  - title:             Projects
-    url:               /projects/
+  - title:             Learning
+    url:               /learning/
   - title:             Résumé*
     url:               /resume/
   - title:             Documentation
