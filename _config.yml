@@ -310,6 +310,14 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  other_projects:
+    permalink:         /other_projects/:path/
+    output:            true
+    
+  learning:
+    permalink:         /learning/:path/
+    output:            true
+
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
