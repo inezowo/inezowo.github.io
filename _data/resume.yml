@@ -2,14 +2,14 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
+  name: "Inez Wong"
+#   label: "Programmer"
   picture: "https://via.placeholder.com/240x240"
   email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+#   phone: "(44) 07745820006"
+  website: "https://inezowo.github.io"
   summary: >
-    Richard hails from Tulsa.
+    Inez Wong from Hong Kong.
     He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
     Before starting Pied Piper, he worked for Hooli as a part time software developer.
     While his work focuses on applied information theory,
