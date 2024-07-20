@@ -3,7 +3,7 @@
 layout: grid
 
 # The title of the tag's page.
-title: Learning
+title: Book Review
 
 # The name of the tag, used in a post's front matter (e.g. tags: [<slug>]).
 slug: bookreview
