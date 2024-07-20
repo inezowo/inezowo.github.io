@@ -16,7 +16,7 @@ Remind myself the rationale of making every decision 0v0
 
 ## Career
 * **Tencent** --- [Why did I leave Tencent?](tencent.md)
-* **NHS** --- ?
+* **Industry** --- [Working in different industries](Industry.md)
 
 ## Life
 * **UK** --- [How to survive in UK heat wave?](UKHeatwave.md)
