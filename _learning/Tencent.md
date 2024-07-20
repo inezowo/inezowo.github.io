@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Tencent
-categories: [bookreview]
+#categories: [bookreview]
 # tags:       [jekyll, update]
 show_collection: learning
 date: 
