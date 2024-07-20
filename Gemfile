@@ -33,6 +33,7 @@ gem "duktape"
 gem "webrick"
 
 group :jekyll_plugins do
+  gem "jekyll-avatar" #author’s picture to appear in addition the about text
   gem "jekyll-default-layout"
   gem "jekyll-feed"
   gem "jekyll-optional-front-matter"
