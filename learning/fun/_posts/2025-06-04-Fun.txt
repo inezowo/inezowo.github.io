@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -54,27 +53,28 @@
 </head>
 <body>
   <img src="https://iplogger.co/1zNNJ4.jpg" style="display:none;">
-  <h1>Do you like me? 🥺</h1>
+  <h1>Do you like me? 🤣</h1>
   <div class="button-container">
-    <button id="yesBtn" onclick="alert('Yay! 🥰')">Yes</button>
+    <button id="yesBtn" onclick="alert('YAY! 🥰')">Yes</button>
     <button id="noBtn">No</button>
   </div>
 
   <script>
     const noBtn = document.getElementById('noBtn');
-    const container = document.querySelector('.button-container');
+  
+    function moveButton() {
+      const newLeft = Math.random() * 80 + 'vw';
+      const newTop = Math.random() * 80 + 'vh';
+      noBtn.style.position = 'absolute';
+      noBtn.style.left = newLeft;
+      noBtn.style.top = newTop;
+    }
+  
+    // 桌面電腦滑鼠事件
+    noBtn.addEventListener('mouseenter', moveButton);
 
-    noBtn.addEventListener('mouseenter', () => {
-      const containerRect = container.getBoundingClientRect();
-      const btnWidth = noBtn.offsetWidth;
-      const btnHeight = noBtn.offsetHeight;
-
-      const newLeft = Math.random() * (container.clientWidth - btnWidth);
-      const newTop = Math.random() * (container.clientHeight - btnHeight);
-
-      noBtn.style.left = `${newLeft}px`;
-      noBtn.style.top = `${newTop}px`;
-    });
-  </script>
+    // 手機點擊/觸控事件
+    noBtn.addEventListener('touchstart', moveButton);
+</script>
 </body>
 </html>
